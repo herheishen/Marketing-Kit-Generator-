@@ -1,0 +1,5 @@
+{
+  "name": "Marketing Kit Generator",
+  "description": "A React application to generate a comprehensive marketing kit for products, leveraging AI for content creation based on user input.",
+  "requestFramePermissions": []
+}
